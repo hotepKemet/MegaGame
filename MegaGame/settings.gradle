@@ -1,0 +1,2 @@
+rootProject.name='MegaGame'
+include ':app'
